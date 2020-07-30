@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="160px" viewBox="0 0 110 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>document/illu-document-payslip</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 109.367884 0 109.367884 159.396226 0 159.396226"></polygon>
+        <filter x="-7.8%" y="-4.1%" width="115.5%" height="110.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="document/illu-document-payslip" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7">
+            <g id="payslip-step3-manual">
+                <g id="payslip">
+                    <g id="Group-3">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <text id="Lohnsteuerbescheinig" font-family="CircularStd-Bold, Circular Std" font-size="5.76" font-weight="bold" fill="#3B3B3B">
+                            <tspan x="7.01825994" y="16.7862108">Lohnsteuerbescheinigung</tspan>
+                        </text>
+                        <g id="Group" transform="translate(8.187970, 82.694283)" stroke="#9B9B9B" stroke-width="0.5184">
+                            <path d="M0.2592,0.782896326 L0.2592,6.7943757 L40.5200654,6.7943757 L40.5200654,0.782896326 L0.2592,0.782896326 Z" id="Rectangle-2" fill="#FFFFFF"></path>
+                            <path d="M0.2592,8.81453461 L0.2592,14.826014 L40.5200654,14.826014 L40.5200654,8.81453461 L0.2592,8.81453461 Z" id="Rectangle-2"></path>
+                            <path d="M0.2592,17.3698692 L0.2592,23.3813486 L40.5200654,23.3813486 L40.5200654,17.3698692 L0.2592,17.3698692 Z" id="Rectangle-2"></path>
+                            <path d="M0.2592,25.2122593 L0.2592,31.2237386 L40.5200654,31.2237386 L40.5200654,25.2122593 L0.2592,25.2122593 Z" id="Rectangle-2"></path>
+                            <path d="M27.8862171,1.17668426 L27.8862171,6.40058776" id="Line" stroke-linecap="square"></path>
+                            <path d="M27.8862171,8.75585026 L27.8862171,14.7713199" id="Line" stroke-linecap="square"></path>
+                            <path d="M27.8862171,17.3111849 L27.8862171,23.3266545" id="Line" stroke-linecap="square"></path>
+                            <path d="M27.8862171,25.1535749 L27.8862171,31.1690446" id="Line" stroke-linecap="square"></path>
+                        </g>
+                        <g id="right-side" transform="translate(54.976369, 24.568591)" stroke="#9B9B9B" stroke-width="0.5184">
+                            <path d="M0.375841503,0.27916179 L0.375841503,125.320274 L43.4344535,125.320274 L43.4344535,0.27916179 L0.375841503,0.27916179 Z" id="Rectangle-2"></path>
+                            <path d="M0.304916103,6.31254376 L42.9365388,6.31254376" id="Line" stroke-linecap="square"></path>
+                            <path d="M28.209494,0.213434391 L28.209494,124.057663" id="Line" stroke-linecap="square"></path>
+                            <path d="M14.2632273,65.6918487 L14.2632273,84.8844792" id="Line" stroke-linecap="square"></path>
+                            <path d="M38.3522334,0.213434391 L38.3522334,124.057663" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,12.234045 L42.9365388,12.234045" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,18.1555462 L42.9365388,18.1555462" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,25.3929366 L42.9365388,25.3929366" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,31.9723824 L42.9365388,31.9723824" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,38.5518282 L42.9365388,38.5518282" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,45.1312741 L42.9365388,45.1312741" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,51.7107199 L42.9365388,51.7107199" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,58.9481103 L42.9365388,58.9481103" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,65.5275561 L42.9365388,65.5275561" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,70.7911127 L42.9365388,70.7911127" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,78.0285031 L42.9365388,78.0285031" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,85.2658935 L42.9365388,85.2658935" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,93.1612285 L42.9365388,93.1612285" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,99.0827297 L42.9365388,99.0827297" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,105.004231 L42.9365388,105.004231" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,111.583677 L42.9365388,111.583677" id="Line" stroke-linecap="square"></path>
+                            <path d="M0.304916103,118.821067 L42.9365388,118.821067" id="Line" stroke-linecap="square"></path>
+                        </g>
+                        <polygon id="Rectangle-7" fill="#E8E8E8" points="7.60311493 30.1403774 30.2316864 30.1403774 30.2316864 32.4588679 7.60311493 32.4588679"></polygon>
+                        <polygon id="Rectangle-7-Copy" fill="#E8E8E8" points="7.60311493 33.6181132 30.2316864 33.6181132 30.2316864 35.9366038 7.60311493 35.9366038"></polygon>
+                        <polygon id="Rectangle-7-Copy" fill="#E8E8E8" points="7.60311493 37.0958491 30.2316864 37.0958491 30.2316864 39.4143396 7.60311493 39.4143396"></polygon>
+                        <polygon id="Rectangle-7" fill="#E8E8E8" points="7.60311493 60.8603774 44.3745435 60.8603774 44.3745435 63.1788679 7.60311493 63.1788679"></polygon>
+                        <polygon id="Rectangle-7-Copy-2" fill="#E8E8E8" points="7.60311493 64.3381132 44.3745435 64.3381132 44.3745435 66.6566038 7.60311493 66.6566038"></polygon>
+                        <polygon id="Rectangle-7-Copy-3" fill="#E8E8E8" points="7.60311493 67.8158491 44.3745435 67.8158491 44.3745435 70.1343396 7.60311493 70.1343396"></polygon>
+                        <polygon id="Rectangle-7-Copy-4" fill="#E8E8E8" points="7.60311493 71.2935849 44.3745435 71.2935849 44.3745435 73.6120755 7.60311493 73.6120755"></polygon>
+                        <polygon id="Rectangle-7" fill="#E8E8E8" points="8.18796992 134.472453 32.7518797 134.472453 32.7518797 137.370566 8.18796992 137.370566"></polygon>
+                        <polygon id="Rectangle-7-Copy" fill="#E8E8E8" points="8.18796992 138.529811 32.7518797 138.529811 32.7518797 141.427925 8.18796992 141.427925"></polygon>
+                        <polygon id="Rectangle-7-Copy" fill="#E8E8E8" points="8.18796992 142.58717 32.7518797 142.58717 32.7518797 145.485283 8.18796992 145.485283"></polygon>
+                        <polygon id="Rectangle-7-Copy" fill="#E8E8E8" points="8.18796992 146.644528 32.7518797 146.644528 32.7518797 149.542642 8.18796992 149.542642"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
